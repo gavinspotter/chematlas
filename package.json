@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gavinspotter/chematlas/issues"
   },
-  "homepage": "https://github.com/gavinspotter/chematlas#readme"
+  "homepage": "https://github.com/gavinspotter/chematlas#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
